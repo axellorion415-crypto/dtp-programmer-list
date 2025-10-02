@@ -8,6 +8,6 @@ Repositori ini berisi daftar siswa siswi SMK Telkom Sidoarjo yang mengikuti Digi
 
 ### Daftar Peserta :
 ⁠- ⁠Muhammad Naufal Rafa Al As'ad [Repository Github](https://github.com/Falrafa4)
-- Evelyn Nafil Rasendriya [ https://github.com/evelynnafil11-hub/belajar-python.git ]
 - Zaina Fildza Ghaisani [Repository Github](https://github.com/zainafldzG/belaajr-python.git)
 - Arya Chaka Braja Wisesa [Repository Github](https://github.com/AryaVira)
+- Russel orion e.d.m [Repositoty Github](https://github.com/axellorion415-crypto)
